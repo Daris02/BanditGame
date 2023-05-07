@@ -199,8 +199,8 @@ ssh -i sshkey.private bandit17@bandit.labs.overthewire.org -p 2220
 # Level 17 ➡️ Level 18
 ## command
 ```sh
-di>#ff password : old pa rd :s.ne
- ``
+diff passwords.old passwords.new
+```
 
 > password: `hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg`
 
